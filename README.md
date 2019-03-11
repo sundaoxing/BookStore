@@ -1,2 +1,2 @@
 # BookStore
-A E-commerce project,you can buy book that you like on the Internet.
+网上书城
